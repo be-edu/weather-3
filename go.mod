@@ -1,0 +1,3 @@
+module github.com/be-edu/weather-3
+
+go 1.19
